@@ -1,0 +1,2 @@
+enrichment_plugin:
+  NORMSHIELD_DOMAIN_SOURCE: https://services.normshield.com/domain/fraudulent/text/
