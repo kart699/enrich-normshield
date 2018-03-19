@@ -12,9 +12,6 @@
 Following domains are verified and marked as phishing domains by NormShield.
 These domains are checked with according to several items such as content, ssl, domain name registrar, domain age
 
-#### Contact Information
-info@normshield.com
-
 ### Using the NormShield feed API
  The NormShield feed API is found on github at
  
