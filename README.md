@@ -25,7 +25,7 @@ Outbound access required to request normshield feed API
 | Protocol   | Source IP  | Source Port  | Direction	 | Destination Domain | Destination Port  |  
 |:------------- |:-------------|:-------------|:-------------|:-------------|:-------------|  
 | TCP | AD,A10 | Any | Egress	| github.com | 443 |
-| TCP | AD,A10 | Any | Egress	| services.normshield.com | 443 | 
+| TCP | AD,A10 | Any | Egress	| normshield.com | 443 | 
 
 #### Getting started with normshield feed API
 
